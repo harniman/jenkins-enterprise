@@ -2,7 +2,7 @@
 
 
 USER="harniman"
-REPOSITORY_NAME="jenkins-operations-center"
+REPOSITORY_NAME="jenkins-enterprise"
 VERSION="c-1.609.1.1"
 BUILD="1"
 
